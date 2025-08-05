@@ -130,8 +130,5 @@ O script `treinar_modelo.py` avalia o modelo treinado e exibe as seguintes métr
 -   **Relatório de Classificação:** Detalha a Precisão, Recall e F1-Score para cada classe (Diabético e Não Diabético).
 -   **Matriz de Confusão:** Uma tabela e um gráfico que visualizam os acertos e erros do modelo.
 
-## Autor
-(Seu Nome Aqui)
-
 ## Licença
 Este projeto está licenciado sob a Licença MIT.
